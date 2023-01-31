@@ -1,6 +1,6 @@
 ﻿{
 ## spider
-//"spider":"https://download.kstore.space/download/3121/0907.jar",
+//"spider":"https://github.com/Zhang613rgb/albx/blob/main/A4.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
